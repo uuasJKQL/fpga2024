@@ -15,3 +15,4 @@ case (sw[3:0])
             4'hd: seg [6:0] = 7’b0100001;
             4'he: seg [6:0] = 7’b0000110;
             4'hf: seg [6:0] = 7’b0001110;
+[Labtools 27-1429] XML parser encountered a problem in file /home/wyh/cxd720_ad_da.hw/cxd720_ad_da.lpr at line 1 : XML character encoding not supported
