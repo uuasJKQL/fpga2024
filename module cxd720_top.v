@@ -134,7 +134,7 @@ module cxd720_top(
                   //  total_energy <= total_energy + fft_abs;
                     
                     // 寻找最大峰值
-                    if (fft_abs > max_value) begin
+                    if (fft_abs > max_value&&fft_index!=1&&fft_index!=2047) begin
                         max_value <= fft_abs;
                         max_index <= fft_index;
                     end
@@ -184,7 +184,7 @@ module cxd720_top(
                   center<=fft_abs_buffer[max_index];
                    if(count_test<10)
                    begin
-                    if ((center>>11) >left_2 ) begin
+                    if ((center>>10) >left_2 ) begin
                         count_cw<=count_cw+1;
                        // mod_type <= 2'b01; // CW
                     end 
@@ -250,7 +250,9 @@ reg [11:0]seg_data_f;
           .probe3(count_am) ,
             .probe4(count_fm) ,
               .probe5(count_cw) ,
-               .probe6(count_test) 
+               .probe6(center_1) ,
+               .probe7(center_2) 
+               
     );
 
     // DA输出
