@@ -1,0 +1,817 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Tue Jul 11 04:08:03 UTC 2023.
+#
+# This is license NODELOCKED to HOSTID=96ffe9c4;
+# there is no need to run lmgrd for this license.
+#
+#
+#  This license is valid for evaluation ( 30 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT VIVADO_HLS xilinxd 2024.07 11-aug-2023 uncounted \
+72C582073888 \
+VENDOR_STRING=nana414021069@163.com,VIVADO_HLS,software,evaluation,_212743703_1777578927_0_400 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT OEM_7K325T_DesignEd xilinxd 2024.07 permanent uncounted \
+33BAEE57B0CC \
+VENDOR_STRING=nana414021069@163.com,OEM_7K325T_DesignEd,software,permanent,_212743703_1777578927_210778435_441 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT SDAccel xilinxd 2024.07 11-aug-2023 uncounted 70194EA2F2BD \
+VENDOR_STRING=nana414021069@163.com,SDAccel,software,evaluation,_212743703_1777578927_0_907 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 365 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT PetaLinux_NoSuport_Eval xilinxd 2024.07 11-jul-2024 \
+uncounted D4039B7CC3D2 \
+VENDOR_STRING=nana414021069@163.com,PetaLinux_NoSuport_Eval,software,evaluation,_212743703_1777578927_0_728 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT SDSoC_Tools xilinxd 2024.07 10-sep-2023 uncounted \
+739B7DB9BA91 \
+VENDOR_STRING=nana414021069@163.com,SDSoC_Tools,software,evaluation,_212743703_1777578927_0_867 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT ap_sdsoc xilinxd 2024.07 10-sep-2023 uncounted C73C14DC2D59 \
+VENDOR_STRING=nana414021069@163.com,ap_sdsoc,software,evaluation,_212743703_1777578927_0_803 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT ap_cc xilinxd 2024.07 10-sep-2023 uncounted F3975B206664 \
+VENDOR_STRING=nana414021069@163.com,ap_cc,software,evaluation,_212743703_1777578927_0_149 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_cresample xilinxd 2024.07 10-sep-2023 uncounted \
+4E6F1A0C1312 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_cresample,ip,evaluation,_212743703_1777578927_0_568 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_cresample
+FEATURE v_cresample xilinxd 1.0 10-sep-2023 uncounted E317CE120AC9 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_osd xilinxd 2024.07 10-sep-2023 uncounted 20D0386926E7 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_osd,ip,evaluation,_212743703_1777578927_0_969 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_osd
+FEATURE v_osd xilinxd 1.0 10-sep-2023 uncounted 488700381668 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# Licenses for v_osd_v1_0
+FEATURE v_osd_v1_0 xilinxd 1.0 10-sep-2023 uncounted 353D52C40F76 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_rgb2ycrcd xilinxd 2024.07 10-sep-2023 uncounted \
+67709B5B07E5 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_rgb2ycrcd,ip,evaluation,_212743703_1777578927_0_103 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_rgb2ycrcb
+FEATURE v_rgb2ycrcb xilinxd 1.0 10-sep-2023 uncounted D968469C78D3 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 10-sep-2023 uncounted 2F266D170079 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_tc xilinxd 2024.07 10-sep-2023 uncounted CF1E44AE4A84 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_tc,ip,evaluation,_212743703_1777578927_0_541 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_tc
+FEATURE v_tc xilinxd 1.0 10-sep-2023 uncounted 8A94325E3230 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_tpg xilinxd 2024.07 10-sep-2023 uncounted 3022A244990C \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_tpg,ip,evaluation,_212743703_1777578927_0_804 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_tpg
+FEATURE v_tpg xilinxd 1.0 10-sep-2023 uncounted E807E98BC79C \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_ycrcb2rgb_v2 xilinxd 2024.07 10-sep-2023 uncounted \
+5F3187BAC243 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_ycrcb2rgb_v2,ip,evaluation,_212743703_1777578927_0_024 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 10-sep-2023 uncounted FE7F4859DB01 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_ycrcb2rgb xilinxd 2024.07 10-sep-2023 uncounted \
+98E85C554587 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_ycrcb2rgb,ip,evaluation,_212743703_1777578927_0_769 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_ycrcb2rgb
+FEATURE v_ycrcb2rgb xilinxd 1.0 10-sep-2023 uncounted 27C259280F5B \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_rgb2ycrcb_v2 xilinxd 2024.07 10-sep-2023 uncounted \
+9098C90C0E8A \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_rgb2ycrcb_v2,ip,evaluation,_212743703_1777578927_0_426 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU9EG-ES1_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+1AA835B3883D \
+VENDOR_STRING=nana414021069@163.com,XCZU9EG-ES1_bitgen,software,evaluation,_212743703_1777578927_0_627 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu9eg-es1 xilinxd 2024.07 10-sep-2023 uncounted \
+DCCABFFA869C \
+VENDOR_STRING=nana414021069@163.com,xczu9eg-es1,software,evaluation,_212743703_1777578927_0_962 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU9EG-ES2_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+B1815A01FB2E \
+VENDOR_STRING=nana414021069@163.com,XCZU9EG-ES2_bitgen,software,evaluation,_212743703_1777578927_0_268 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU3EG-ES1_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+8CCC95F229FE \
+VENDOR_STRING=nana414021069@163.com,XCZU3EG-ES1_bitgen,software,evaluation,_212743703_1777578927_0_902 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu3eg-es1 xilinxd 2024.07 10-sep-2023 uncounted \
+81DE32A6F705 \
+VENDOR_STRING=nana414021069@163.com,xczu3eg-es1,software,evaluation,_212743703_1777578927_0_000 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU15EG-ES1_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+3995703623FC \
+VENDOR_STRING=nana414021069@163.com,XCZU15EG-ES1_bitgen,software,evaluation,_212743703_1777578927_0_120 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU15EG-ES1 xilinxd 2024.07 10-sep-2023 uncounted \
+6FB5548FC3DC \
+VENDOR_STRING=nana414021069@163.com,XCZU15EG-ES1,software,evaluation,_212743703_1777578927_0_769 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU19EG-ES2_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+CD7005963A6F \
+VENDOR_STRING=nana414021069@163.com,XCZU19EG-ES2_bitgen,software,evaluation,_212743703_1777578927_0_143 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU19EG-ES2 xilinxd 2024.07 10-sep-2023 uncounted \
+62E58695B13E \
+VENDOR_STRING=nana414021069@163.com,XCZU19EG-ES2,software,evaluation,_212743703_1777578927_0_340 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU9EG-ES2 xilinxd 2024.07 10-sep-2023 uncounted \
+7C5B9010BA69 \
+VENDOR_STRING=nana414021069@163.com,XCZU9EG-ES2,software,evaluation,_212743703_1777578927_0_348 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_proc_ss xilinxd 2024.07 10-sep-2023 uncounted \
+67F7938FBD11 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_proc_ss,ip,evaluation,_212743703_1777578927_0_507 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_proc_ss
+FEATURE v_proc_ss xilinxd 1.0 10-sep-2023 uncounted 859D6707CCA8 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_mix xilinxd 2024.07 10-sep-2023 uncounted 913319A64899 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_mix,ip,evaluation,_212743703_1777578927_0_824 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_mix
+FEATURE v_mix xilinxd 1.0 10-sep-2023 uncounted 99E540A810F0 \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT mipi_csi2_rx_ctrl xilinxd 2024.07 10-sep-2023 uncounted \
+9BBD67BB60D9 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,mipi_csi2_rx_ctrl,ip,evaluation,_212743703_1777578927_0_863 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for mipi_csi2_rx_ctrl
+FEATURE mipi_csi2_rx_ctrl xilinxd 1.0 10-sep-2023 uncounted \
+9D562B0A74C0 VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT v_hdmi xilinxd 2024.07 10-sep-2023 uncounted 7477BB81D494 \
+VENDOR_STRING=License_Type:Hardware_Evaluation;nana414021069@163.com,v_hdmi,ip,evaluation,_212743703_1777578927_0_603 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+NOTICE="The license for this core was generated for \
+nana414021069@163.com on 07/12/2023It is the responsibility of \
+the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." START=11-Jul-2023 TS_OK
+#
+# Licenses for v_hdmi
+FEATURE v_hdmi xilinxd 1.0 10-sep-2023 uncounted DD09B63CE81A \
+VENDOR_STRING=License_Type:Hardware_Evaluation \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER=Xilinx NOTICE="The \
+license for this core was generated for nana414021069@163.com \
+on 07/12/2023It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU9EG xilinxd 2024.07 10-sep-2023 uncounted CC4C88EC0DCE \
+VENDOR_STRING=nana414021069@163.com,XCZU9EG,software,evaluation,_212743703_1777578927_0_442 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xazu2eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+274D35C1AF3C \
+VENDOR_STRING=nana414021069@163.com,xazu2eg_bitgen,software,evaluation,_212743703_1777578927_0_947 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU2EG-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+89EBBFBEDBE3 \
+VENDOR_STRING=nana414021069@163.com,XCZU2EG-EVAL,software,evaluation,_212743703_1777578927_0_705 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU4EV-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+81B2345EED13 \
+VENDOR_STRING=nana414021069@163.com,XCZU4EV-EVAL,software,evaluation,_212743703_1777578927_0_060 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4ev xilinxd 2024.07 10-sep-2023 uncounted F0E4505A5FA8 \
+VENDOR_STRING=nana414021069@163.com,xczu4ev,software,evaluation,_212743703_1777578927_0_222 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu5ev xilinxd 2024.07 10-sep-2023 uncounted ECCE07BEAB0E \
+VENDOR_STRING=nana414021069@163.com,xczu5ev,software,evaluation,_212743703_1777578927_0_563 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU5EV-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+E23892C173B5 \
+VENDOR_STRING=nana414021069@163.com,XCZU5EV-EVAL,software,evaluation,_212743703_1777578927_0_860 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7ev xilinxd 2024.07 10-sep-2023 uncounted 7A6A4D52D990 \
+VENDOR_STRING=nana414021069@163.com,xczu7ev,software,evaluation,_212743703_1777578927_0_709 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7ev_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+FA6AA7BDF1DB \
+VENDOR_STRING=nana414021069@163.com,xczu7ev_bitgen,software,evaluation,_212743703_1777578927_0_163 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU11EG-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+3E3979A165BD \
+VENDOR_STRING=nana414021069@163.com,XCZU11EG-EVAL,software,evaluation,_212743703_1777578927_0_864 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu2cg xilinxd 2024.07 10-sep-2023 uncounted F8C8DFBCF999 \
+VENDOR_STRING=nana414021069@163.com,xczu2cg,software,evaluation,_212743703_1777578927_0_728 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu2cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+DBC7D83D56D1 \
+VENDOR_STRING=nana414021069@163.com,xczu2cg_bitgen,software,evaluation,_212743703_1777578927_0_162 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu3cg xilinxd 2024.07 10-sep-2023 uncounted 348E6D3A44D8 \
+VENDOR_STRING=nana414021069@163.com,xczu3cg,software,evaluation,_212743703_1777578927_0_563 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu3cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+00E52B43F6BF \
+VENDOR_STRING=nana414021069@163.com,xczu3cg_bitgen,software,evaluation,_212743703_1777578927_0_601 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4ev_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+FC3C52D4D26C \
+VENDOR_STRING=nana414021069@163.com,xczu4ev_bitgen,software,evaluation,_212743703_1777578927_0_365 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu2eg xilinxd 2024.07 10-sep-2023 uncounted 7EEC63D483C4 \
+VENDOR_STRING=nana414021069@163.com,xczu2eg,software,evaluation,_212743703_1777578927_0_105 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu2eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+B2BE51CD9D48 \
+VENDOR_STRING=nana414021069@163.com,xczu2eg_bitgen,software,evaluation,_212743703_1777578927_0_361 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu3eg xilinxd 2024.07 10-sep-2023 uncounted 5DB3D06079EE \
+VENDOR_STRING=nana414021069@163.com,xczu3eg,software,evaluation,_212743703_1777578927_0_028 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu3eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+27BBD402AE3D \
+VENDOR_STRING=nana414021069@163.com,xczu3eg_bitgen,software,evaluation,_212743703_1777578927_0_329 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4eg xilinxd 2024.07 10-sep-2023 uncounted 0B0105B0A70C \
+VENDOR_STRING=nana414021069@163.com,xczu4eg,software,evaluation,_212743703_1777578927_0_707 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+0F3FDBCD15E8 \
+VENDOR_STRING=nana414021069@163.com,xczu4eg_bitgen,software,evaluation,_212743703_1777578927_0_127 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4cg xilinxd 2024.07 10-sep-2023 uncounted D0A1CB4A3300 \
+VENDOR_STRING=nana414021069@163.com,xczu4cg,software,evaluation,_212743703_1777578927_0_345 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu4cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+8C3E53ACC011 \
+VENDOR_STRING=nana414021069@163.com,xczu4cg_bitgen,software,evaluation,_212743703_1777578927_0_606 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu5eg xilinxd 2024.07 10-sep-2023 uncounted 9054A3CC7E38 \
+VENDOR_STRING=nana414021069@163.com,xczu5eg,software,evaluation,_212743703_1777578927_0_561 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu5eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+5A02CA346697 \
+VENDOR_STRING=nana414021069@163.com,xczu5eg_bitgen,software,evaluation,_212743703_1777578927_0_949 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu5cg xilinxd 2024.07 10-sep-2023 uncounted 2608116C020F \
+VENDOR_STRING=nana414021069@163.com,xczu5cg,software,evaluation,_212743703_1777578927_0_942 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu5cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+B54E015E8D3A \
+VENDOR_STRING=nana414021069@163.com,xczu5cg_bitgen,software,evaluation,_212743703_1777578927_0_144 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7eg xilinxd 2024.07 10-sep-2023 uncounted 78AA48C8FB92 \
+VENDOR_STRING=nana414021069@163.com,xczu7eg,software,evaluation,_212743703_1777578927_0_406 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+E0D80F3CD9D2 \
+VENDOR_STRING=nana414021069@163.com,xczu7eg_bitgen,software,evaluation,_212743703_1777578927_0_542 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7cg xilinxd 2024.07 10-sep-2023 uncounted 0DEEBF424060 \
+VENDOR_STRING=nana414021069@163.com,xczu7cg,software,evaluation,_212743703_1777578927_0_747 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu7cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+462F92C86893 \
+VENDOR_STRING=nana414021069@163.com,xczu7cg_bitgen,software,evaluation,_212743703_1777578927_0_523 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU6EG-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+CBBBFC54FC45 \
+VENDOR_STRING=nana414021069@163.com,XCZU6EG-EVAL,software,evaluation,_212743703_1777578927_0_260 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu6eg xilinxd 2024.07 10-sep-2023 uncounted 9803CF8C8FF8 \
+VENDOR_STRING=nana414021069@163.com,xczu6eg,software,evaluation,_212743703_1777578927_0_549 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu6eg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+2E2264ED04D3 \
+VENDOR_STRING=nana414021069@163.com,xczu6eg_bitgen,software,evaluation,_212743703_1777578927_0_924 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu6cg xilinxd 2024.07 10-sep-2023 uncounted ACF7DDF48365 \
+VENDOR_STRING=nana414021069@163.com,xczu6cg,software,evaluation,_212743703_1777578927_0_162 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu6cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+52DCE84D0E3D \
+VENDOR_STRING=nana414021069@163.com,xczu6cg_bitgen,software,evaluation,_212743703_1777578927_0_922 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu9cg xilinxd 2024.07 10-sep-2023 uncounted 08EBB8CCB91B \
+VENDOR_STRING=nana414021069@163.com,xczu9cg,software,evaluation,_212743703_1777578927_0_601 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu9cg_bitgen xilinxd 2024.07 10-sep-2023 uncounted \
+59A525A69952 \
+VENDOR_STRING=nana414021069@163.com,xczu9cg_bitgen,software,evaluation,_212743703_1777578927_0_908 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu11eg xilinxd 2024.07 10-sep-2023 uncounted B7798BE1A8D0 \
+VENDOR_STRING=nana414021069@163.com,xczu11eg,software,evaluation,_212743703_1777578927_0_022 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu15eg xilinxd 2024.07 10-sep-2023 uncounted 9FF77361BC88 \
+VENDOR_STRING=nana414021069@163.com,xczu15eg,software,evaluation,_212743703_1777578927_0_826 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU17EG-EVAL xilinxd 2024.07 10-sep-2023 uncounted \
+B93CF4347F9C \
+VENDOR_STRING=nana414021069@163.com,XCZU17EG-EVAL,software,evaluation,_212743703_1777578927_0_166 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT xczu17eg xilinxd 2024.07 10-sep-2023 uncounted 2205D37087A3 \
+VENDOR_STRING=nana414021069@163.com,xczu17eg,software,evaluation,_212743703_1777578927_0_528 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 60 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT XCZU19EG xilinxd 2024.07 10-sep-2023 uncounted 3534A708BDEB \
+VENDOR_STRING=nana414021069@163.com,XCZU19EG,software,evaluation,_212743703_1777578927_0_122 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT ISE_Embedded_Edition xilinxd 2024.07 permanent uncounted \
+61007A9E10AF \
+VENDOR_STRING=nana414021069@163.com,ISE_Embedded_Edition,software,permanent,_212743703_1777578927_0_607 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT SDK xilinxd 2024.07 permanent uncounted 2497F1893097 \
+VENDOR_STRING=nana414021069@163.com,SDK,software,permanent,_212743703_1777578927_0_523 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT V_WebPACK xilinxd 2024.07 permanent uncounted 615D15C3DF6A \
+VENDOR_STRING=nana414021069@163.com,V_WebPACK,software,permanent,_212743703_1777578927_0_860 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT Analyzer xilinxd 2024.07 permanent uncounted C8DD553F5714 \
+VENDOR_STRING=nana414021069@163.com,Analyzer,software,permanent,_212743703_1777578927_0_460 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT HLS xilinxd 2024.07 permanent uncounted FA03A911A91A \
+VENDOR_STRING=nana414021069@163.com,HLS,software,permanent,_212743703_1777578927_0_547 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT MEbuild xilinxd 2024.07 permanent uncounted DFD0590E7D19 \
+VENDOR_STRING=nana414021069@163.com,MEbuild,software,permanent,_212743703_1777578927_0_407 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT MEsim xilinxd 2024.07 permanent uncounted 867D3D781B66 \
+VENDOR_STRING=nana414021069@163.com,MEsim,software,permanent,_212743703_1777578927_0_522 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT AIEsim xilinxd 2024.07 permanent uncounted E5B9B4F7D004 \
+VENDOR_STRING=nana414021069@163.com,AIEsim,software,permanent,_212743703_1777578927_0_441 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT AIEbuild xilinxd 2024.07 permanent uncounted 483CA0EC44FD \
+VENDOR_STRING=nana414021069@163.com,AIEbuild,software,permanent,_212743703_1777578927_0_046 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT ISE_Embedded_Edition xilinxd 2024.07 11-aug-2023 uncounted \
+5206C1B14021 \
+VENDOR_STRING=nana414021069@163.com,ISE_Embedded_Edition,software,evaluation,_212743703_1777578927_0_065 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Tue Jul 11 04:08:03 UTC 2023
+INCREMENT Vivado_ML_Enterprise_Edition xilinxd 2024.07 11-aug-2023 \
+uncounted 76890E281545 \
+VENDOR_STRING=nana414021069@163.com,Vivado_ML_Enterprise_Edition,software,evaluation,_212743703_1777578927_0_825 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT ISE_WebPACK xilinxd 2024.07 permanent uncounted \
+0B9757ACFD25 \
+VENDOR_STRING=nana414021069@163.com,ISE_WebPACK,software,permanent,_212743703_1777578927_0_751 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=11-Jul-2023 TS_OK
+#
+# This is a permanent license generated on Tue Jul 11 04:08:03 UTC 2023
+INCREMENT Embedded_SDK xilinxd 2024.07 permanent uncounted \
+B3AEB1DE2742 \
+VENDOR_STRING=nana414021069@163.com,Embedded_SDK,software,permanent,_212743703_1777578927_0_923 \
+HOSTID=DISK_SERIAL_NUM=96ffe9c4 ISSUER="Xilinx Inc" \
+START=11-Jul-2023 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE OEM_7K325T_DesignEd xilinxd 2024.07 30614AF11F06 \
+COMPONENTS="7K325T Vivado_WebPACK PlanAhead Simulation \
+Synthesis Implementation Analyzer SDK ISIM ChipscopePro \
+ChipScopePro_SIOTK XPS HLS SysGen" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDAccel xilinxd 2024.07 4AEEC75083C8 COMPONENTS="ap_opencl \
+Analyzer Synthesis Simulation Implementation HLS \
+PartialReconfiguration" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE PetaLinux_NoSuport_Eval xilinxd 2024.07 69DC9D52BAEA \
+COMPONENTS="petalinux_arch_microblaze petalinux_arch_ppc \
+petalinux_arch_zynq" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE SDSoC_Tools xilinxd 2024.07 95E12AE5958A COMPONENTS="ap_cc \
+Simulation Analyzer SDK ap_sdsoc XC7Z020 XC7Z045 XC7Z030 \
+XC7Z010 XC7Z100 xc7z015 xc7z035" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2024.07 D8360520EA07 \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_Embedded_Edition xilinxd 2024.07 D8360520EA07 \
+COMPONENTS="ChipScopePro_SIOTK ChipscopePro ISE XPS ISIM \
+PlanAhead SDK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_ML_Enterprise_Edition xilinxd 2024.07 108BD425DB5F \
+COMPONENTS="Analyzer HLS Implementation PartialReconfiguration \
+SDK Simulation Synthesis" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2024.07 C256E22D9890 COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead ChipscopePro \
+ChipScopePro_SIOTK HLS" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Embedded_SDK xilinxd 2024.07 160C7BCBC81F COMPONENTS=SDK \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
